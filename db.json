@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "San pham 50",
+      "price": "512"
+    },
+    {
+      "name": "HanaStore",
+      "price": "9",
+      "id": 2
+    },
+    {
+      "name": "trang",
+      "price": "15xsssssssssssss",
+      "id": 3
+    }
+  ]
+}
